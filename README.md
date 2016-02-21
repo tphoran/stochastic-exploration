@@ -1,4 +1,4 @@
-### Economy Simulator Summary
+### Stochastic Economy Simulator Summary
 #### Developed by Tim Horan
 #### Problem Statement: 
 We do not have a great way to shock risk beyond a flat multiplier, through specifying some recession and economy characteristics we could stochastically simulate economic outcomes multiple times and collect the average results and confidence intervals.
